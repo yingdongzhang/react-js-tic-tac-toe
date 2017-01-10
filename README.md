@@ -12,7 +12,7 @@ ReactJS tutorial completed with improvements:
 
 Also added
 
-* You can tart over.
+* You can start over.
 
 * It shows "Tie" when it is a tie.
 
